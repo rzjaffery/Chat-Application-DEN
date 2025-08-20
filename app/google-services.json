@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425413082155",
+    "project_id": "personal-chat-applicatio-17bda",
+    "storage_bucket": "personal-chat-applicatio-17bda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425413082155:android:b2f840b4191dd06fac7e6e",
+        "android_client_info": {
+          "package_name": "com.rzjaffery.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqAUKYxU_qFfKEIiohfwygxhWiqm7bVBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
